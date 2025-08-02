@@ -1,7 +1,15 @@
-A library to deal with operating system operations.
+whisper 
 
-A library to record and deal with audios.
+sounddevice 
 
-An open source Speech-to-Text moudle.
+webbrowser 
 
-If needed an open source LM.
+numpy 
+
+time 
+
+os 
+
+subprocess 
+
+get_close_matches() from difflib 
