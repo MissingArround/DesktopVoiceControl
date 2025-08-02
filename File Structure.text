@@ -1,0 +1,6 @@
+voice-assistant/
+├── main.py             # Entry point
+├── audio_utils.py      # Audio recording and processing
+├── command_handler.py  # Command matching and execution
+├── model.py            # Whisper model initialization
+└── constants.py        # Shared constants and configurations
